@@ -31,6 +31,13 @@ I developed a quiz app using TypeScript. It features a smooth, interactive inter
 ```bash
 git clone https://github.com/rohanmittal1163/QuizApp
 ```
+```bash
+npm install
+npm run dev
+```
+```bash
+json-server --watch db.json --port 4000
+```
 ## ❤ Contribute
 This project is open source and we are happy to receive contributions. If you would like to contribute, please follow these steps:
 
