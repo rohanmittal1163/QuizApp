@@ -1,0 +1,48 @@
+{
+	"questions": [
+		{
+			"id": "e0af0291-4d26-4b5b-8e50-1d44a2b5e7f1",
+			"question": "What is the capital of France?",
+			"options": [
+				{ "id": "1", "option": "Berlin" },
+				{ "id": "2", "option": "Paris" },
+				{ "id": "3", "option": "Madrid" },
+				{ "id": "4", "option": "Rome" }
+			],
+			"answer": 1
+		},
+		{
+			"id": "4b774e64-aeef-4ebc-90c1-3e3f392b9c4a",
+			"question": "If a car travels at 60 miles per hour, how long does it take to travel 120 miles?",
+			"options": [
+				{ "id": "5", "option": "1 hour" },
+				{ "id": "6", "option": "2 hours" },
+				{ "id": "7", "option": "3 hours" },
+				{ "id": "8", "option": "4 hours" }
+			],
+			"answer": 1
+		},
+		{
+			"id": "9c32850c-c1f0-4a3b-bc9f-c93cb7e7a4f2",
+			"question": "Simplify: 2 + 3 * (4 - 2)",
+			"options": [
+				{ "id": "9", "option": "8" },
+				{ "id": "10", "option": "10" },
+				{ "id": "11", "option": "12" },
+				{ "id": "12", "option": "14" }
+			],
+			"answer": 0
+		},
+		{
+			"id": "67839b3d-14cf-4a10-9d68-3c42f07db6c9",
+			"question": "Which of the following is a prime number?",
+			"options": [
+				{ "id": "13", "option": "15" },
+				{ "id": "14", "option": "27" },
+				{ "id": "15", "option": "17" },
+				{ "id": "16", "option": "20" }
+			],
+			"answer": 2
+		}
+	]
+}
